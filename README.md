@@ -30,6 +30,4 @@ A modern, animated hover card UI built with HTML, CSS, and pure JavaScript. This
 - Edit `style.css` for design tweaks.
 - Edit `script.js` for animation or logic changes.
 
----
-
-Or visit: https://chalitha31.github.io/hover_cards/ 
+visit: https://chalitha31.github.io/hover_cards/ 
