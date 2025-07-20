@@ -6,6 +6,10 @@ A modern, animated hover card UI built with HTML, CSS, and pure JavaScript. This
 
 [Live Demo](https://chalitha31.github.io/hover_cards/)
 
+**Preview Image:**
+
+![Preview](preview.png)
+
 ## Features
 - Animated card expansion on hover, click, or focus
 - Theme switcher (System, Light, Dark)
@@ -27,9 +31,5 @@ A modern, animated hover card UI built with HTML, CSS, and pure JavaScript. This
 - Edit `script.js` for animation or logic changes.
 
 ---
-
-**Preview:**
-
-[![Preview](https://chalitha31.github.io/hover_cards/preview.png)](https://chalitha31.github.io/hover_cards/)
 
 Or visit: https://chalitha31.github.io/hover_cards/ 
